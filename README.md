@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Saurabh%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Undergrad%20%7C%20Full-Stack%20Developer%20%7C%20Team%20Lead&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Saurabh%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Undergrad%20%7C%20Full-Stack%20Developer%20%7C%20President%2C%20KaarwaaN%20Society&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+interactive+web+applications+%F0%9F%92%BB;Turning+algorithms+into+visual+experiences+%E2%9A%A1;React+%7C+TypeScript+%7C+Node.js+enthusiast+%E2%9A%9B%EF%B8%8F;Leading+teams+%26+shipping+clean+code+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+interactive+web+applications+%F0%9F%92%BB;President+%40+KaarwaaN+Society+%F0%9F%8E%99%EF%B8%8F;Turning+algorithms+into+visual+experiences+%E2%9A%A1;React+%7C+TypeScript+%7C+Node.js+enthusiast+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saurabh%20patel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saurabhpatel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sp0918095@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/saurabh45-p?style=for-the-badge&logo=github&label=Follow&color=181717&labelColor=181717)](https://github.com/saurabh45-p)
 [![Profile Views](https://komarev.com/ghpvc/?username=saurabh45-p&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://visitcount.itsvg.in)
@@ -20,11 +20,65 @@
 ```yaml
 name: Saurabh Patel
 role: IT Undergraduate @ Jabalpur Engineering College
+title: President, KaarwaaN Society | Volunteer Frontend Developer
 focus: Interactive web apps, developer tools, full-stack projects
 currently_exploring: [React, TypeScript, Node.js, Modern Web Tech]
 mission: "Write clean, scalable code — build products that solve real problems"
 fun_fact: "I turn algorithms into visual experiences, and enjoy leading teams as much as writing code"
 ```
+
+<br/>
+
+## 🎓 Education
+
+**Bachelor of Technology in Information Technology**
+Jabalpur Engineering College, Jabalpur, M.P. — *Aug 2023 – Present*
+
+<br/>
+
+## 💼 Experience
+
+**President — KaarwaaN Society** · *May 2025 – Present*
+- Elected President, leading planning and execution of student-led initiatives and events
+- Coordinated cross-functional teams, delegated responsibilities, and managed end-to-end event operations
+- Collaborated with faculty, student committees, and external stakeholders on society activities
+
+**Volunteer Frontend Developer — KaarwaaN** · *May 2023 – Present*
+- Developed responsive React components for landing pages and business sections
+- Built reusable UI modules using React Hooks, routing, and responsive styling
+- Improved page performance and UX through code optimization; managed source control with Git/GitHub
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 Pathfinding Visualizer**
+`React.js` `TypeScript` `Tailwind CSS` `HTML5/CSS3`
+
+Interactive visualizer demonstrating BFS, DFS, Dijkstra's, and A* on a customizable grid.
+- Obstacle placement, draggable start/end nodes, algorithm selection
+- Animation speed controls, path highlighting, execution stats
+- Optimized rendering to minimize unnecessary re-renders for smooth animations
+- Deployed via GitHub Pages / Vercel
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 URL Shortener**
+`React.js` `Node.js` `Express.js` `MongoDB` `REST API`
+
+Full-stack app for creating and managing shortened links.
+- RESTful API design with Express.js, persistent storage in MongoDB
+- URL validation, copy-to-clipboard, robust error handling
+- Deployed frontend & backend with environment-based configuration
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -37,6 +91,7 @@ fun_fact: "I turn algorithms into visual experiences, and enjoy leading teams as
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -46,6 +101,7 @@ fun_fact: "I turn algorithms into visual experiences, and enjoy leading teams as
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 **Backend & Databases**
@@ -56,13 +112,22 @@ fun_fact: "I turn algorithms into visual experiences, and enjoy leading teams as
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 <br/>
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 </div>
+
+<br/>
+
+## 🎤 Leadership & Extracurricular
+
+- **Organizer — Aavahan Inter-College Sports Fest** *(Mar 2025)*: Oversaw planning, scheduling, registrations, venue prep, and volunteer teams for an inter-college sports festival, coordinating with participating colleges, faculty, and officials.
+- **Organizer — Nukkad Natak (Street Play Campaign)** *(Aug 2025)*: Coordinated a street theatre performance to raise public awareness on social issues.
 
 <br/>
 
@@ -89,7 +154,7 @@ fun_fact: "I turn algorithms into visual experiences, and enjoy leading teams as
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Saurabh%20Patel-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Saurabh%20patel)
+[![LinkedIn](https://img.shields.io/badge/-Saurabh%20Patel-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Saurabhpatel)
 [![Gmail](https://img.shields.io/badge/-sp0918095%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sp0918095@gmail.com)
 
 </div>
